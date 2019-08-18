@@ -1,6 +1,6 @@
 import java.io.Serializable;
 
-
+//This is the first and only change so far - Author: recep, Mediator: arif, Reviewer: anonymous; Date and time:...
 @SuppressWarnings("serial")
 public class book implements Serializable {
 	
